@@ -1,0 +1,31 @@
+.navegacion {
+	padding-top: 2rem;
+	padding-left: 2rem;
+	background-position: 80%;
+	height: 20vh;
+	background-color: $Eerie-black;
+}
+
+.logo{
+	width:80px;
+}
+
+.nav-item{
+	text-align: left;
+	list-style: none;
+	color:$fuzzy-wuzzy;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: white;
+}
+
+
+.container{
+	margin-top: 24px;
+}
+
+.active{
+color:$fuzzy-wuzzy;
+}
